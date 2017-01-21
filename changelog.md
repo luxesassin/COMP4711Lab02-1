@@ -7,4 +7,5 @@ Carmen
     This took a really long time to figure out!
         Changelog was updated
             Updated respository locally
-            Added a picture and changed the text (quote) in Quotes.php
+            Added a picture(img1.jpg) and changed the text (quote) in Quotes.php
+            
